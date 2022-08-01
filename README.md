@@ -10,6 +10,8 @@ I have some works with **Kubernetes**, **Docker** and **Helm**, contact me if yo
 ## 📚 Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IAM Mechanics in AWS explained](https://medium.com/@linoleparquet/iam-mechanics-in-aws-explained-6abac7dd1cff?source=rss-fc6fe4499efd------2)
+- [Dockerize a full stack application, narrated as a story](https://medium.com/@linoleparquet/dockerize-a-full-stack-application-narrated-as-a-story-5111f7ac9c8b?source=rss-fc6fe4499efd------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📮 Contact me
