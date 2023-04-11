@@ -30,6 +30,20 @@ I have some works with **Kubernetes**, **Docker** and **Helm**, contact me if yo
 ### Cloud Engineer
 
 <p align="left">
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"
+      alt="AWS"
+      width="40"
+      height="40"
+    />
+  <a href="https://terraform.io" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.svgrepo.com/show/354447/terraform-icon.svg"
+      alt="terraform"
+      width="40"
+      height="40"
+    />
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
