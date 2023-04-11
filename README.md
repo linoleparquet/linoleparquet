@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linoleparquet&label=Profile%20views&color=0e75b6&style=flat" alt="linoleparquet" /> </p>
 
 Hi guys, I'm **Lino Layani**. I am a Cloud Engineer from Montréal, Canada. I'm currently working at Beneva as a DevOps Engineer.  
-I have some works with **Kubernetes**, **Docker** and **Helm**, contact me if you have same interesting or some questions!
+I have some works with **AWS**, **Terraform** and **Kubernetes**, contact me if you have same interesting or some questions!
 
 ## 📚 Blogs posts
 
