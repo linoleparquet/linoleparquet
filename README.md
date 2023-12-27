@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linoleparquet&label=Profile%20views&color=0e75b6&style=flat" alt="linoleparquet" /> </p>
 
-Hi, I'm **Lino Layani**. I am a Software Engineer from Montréal, Canada. I currently work at Beneva as a Senior Platform Engineer.  
+Hi, I'm **Lino Layani**. I am a Software Engineer from Montréal, Canada. I'm currently traveling, and will be back looking for a job on april.  
 I have some works with **AWS**, **Terraform** and **Kubernetes**, contact me if you have same interesting or some questions!
 
 ## 📚 Blogs posts
