@@ -1,6 +1,6 @@
 ## 👋 Introduction
 
-Hi, I'm **Lino Layani**. I am a Software Engineer from Montréal, Canada. I'm currently traveling, and will be back looking for a job on april.  
+Hi, I'm **Lino Layani**. I am a Software Engineer from Montréal, Canada. 
 I have some works with **AWS**, **Terraform** and **Kubernetes**, contact me if you have same interesting or some questions!
 
 ## 📚 Blogs posts
