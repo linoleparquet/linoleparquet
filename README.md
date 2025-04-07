@@ -15,12 +15,10 @@ I have some works with **AWS**, **Terraform** and **Kubernetes**, contact me if 
 
 ## 📮 Contact me
 
-[LinkedIn][0] | [Medium][1] | [UpWork][2]
+[LinkedIn][0] | [Medium][1]
 
 [0]: https://www.linkedin.com/in/lino-layani/
 [1]: https://medium.com/@linoleparquet
-[2]: https://www.upwork.com/freelancers/~0194c33fa33451eca9
-
 ## 🤹 Skills
 
 ### Platform Engineer
