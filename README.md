@@ -1,5 +1,5 @@
 ## 👋 Introduction
-
+ 
 Hi, I'm **Lino Layani**. I am a Software Engineer from Montréal, Canada. 
 
 ## 📚 Blogs posts
@@ -12,12 +12,6 @@ Hi, I'm **Lino Layani**. I am a Software Engineer from Montréal, Canada.
 - [The often misunderstood difference between ENTRYPOINT and CMD in Docker](https://medium.com/@linoleparquet/docker-cmd-and-entrypoint-230fdd118e96?source=rss-fc6fe4499efd------2)
 <!-- BLOG-POST-LIST:END -->
 
-## 📮 Contact me
-
-[LinkedIn][0] | [Medium][1]
-
-[0]: https://www.linkedin.com/in/lino-layani/
-[1]: https://medium.com/@linoleparquet
 ## 🤹 Skills
 
 ### Platform Engineer
