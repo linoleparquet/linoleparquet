@@ -101,9 +101,3 @@ Hi, I'm **Lino Layani**. I am a Software Engineer from Montréal, Canada.
     />
   </a>
 </p>
-
-## 💻 OpenSource Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=linoleparquet&show_icons=true&locale=en" alt="linoleparquet" />
-</p>
